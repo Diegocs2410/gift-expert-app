@@ -5,6 +5,7 @@ import { GifGrid } from './components/GifGrid';
 const GiftExpertApp = () => {
   // const categories = ['Naruto', 'One Punch', 'Dragon Ball'];
   const [categories, setCategories] = useState(['Naruto']);
+  
 
   return (
     <>
